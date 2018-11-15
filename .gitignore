@@ -1,0 +1,4 @@
+# because use public repository
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
